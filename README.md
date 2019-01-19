@@ -30,7 +30,7 @@ If you have questions or want to contribute with this work, please drop me an em
 
 # Dataset Structure
 
-The 3W dataset is structured in the folder `data` as follows. The directory names are the labels of instances. Each file represents one instance. The filename reveals its source. In each file, there are one observation per line and one series per column. Columns are separated by commas and decimals are separated by periods. The first column contains timestamps, the last one reveals labels of observations and the other columns are the Multivariate Time Series (MTS).
+The 3W dataset consists of 1,984 CSV files structured as follows. Due to the limitation of GitHub, this dataset is kept in 7z files splited automatically and saved in the `data` directory. Before using 3W dataset, they must be decompressed. After that, the subdirectory names are the labels of instances. Each file represents one instance. The filename reveals its source. In each file, there are one observation per line and one series per column. Columns are separated by commas and decimals are separated by periods. The first column contains timestamps, the last one reveals labels of observations and the other columns are the Multivariate Time Series (MTS).
 
 # Demonstrations
 
