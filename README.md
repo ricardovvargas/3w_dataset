@@ -36,7 +36,7 @@ The 3W dataset consists of 1,984 CSV files structured as follows. Due to the lim
 
 This repository also contains the following demonstrations about 3W dataset in the folder `demos`:
 
-- Demonstration 1: general presentation with some quantities and statistics;
+- [Demonstration 1](demos/demo_1_general_presentation.ipynb): general presentation with some quantities and statistics;
 - Demonstration 2: importance of simulated and drawn instances;
 - Demonstration 3: example of anomaly detection implementation;
 - Demonstration 4: example of early classification implementation.
