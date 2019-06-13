@@ -2,9 +2,9 @@
 
 **Disclaimer: this repository is a WIP (work in progress).**
 
-This is the first realistic and public dataset with rare undesirable real events in oil wells as far as the authors of this work know. It can be used in development of several kinds of techniques and methods for different tasks associated with undesirable events in oil and gas wells.
+To the best of its authors' knowledge, this is the first realistic and public dataset with rare undesirable real events in oil wells that can be readily used as a benchmark dataset for development of machine learning techniques related to inherent difficulties of actual data.
 
-For more information about the theory behind this dataset, refer to the paper **A Realistic and Public Dataset with Rare Undesirable Real Events in Oil Wells** published in the **Journal of Petroleum Science and Engineering**.
+For more information about the theory behind this dataset, refer to the paper **A Realistic and Public Dataset with Rare Undesirable Real Events in Oil Wells** published in the **Journal of Petroleum Science and Engineering**. Specific challenges (benchmarks) that practitioners and researchers can use together with the 3W dataset are defined and proposed in this paper.
 
 # Preamble
 
@@ -28,15 +28,10 @@ doi = {?}
 
 If you have questions or want to contribute with this work, please drop me an email at ricardovvargas at gmail dot com.
 
-# Dataset Structure
+# 3W Dataset's Structure
 
-The 3W dataset consists of 1,984 CSV files structured as follows. Due to the limitation of GitHub, this dataset is kept in 7z files splited automatically and saved in the `data` directory. Before using 3W dataset, they must be decompressed. After that, the subdirectory names are the labels of instances. Each file represents one instance. The filename reveals its source. In each file, there are one observation per line and one series per column. Columns are separated by commas and decimals are separated by periods. The first column contains timestamps, the last one reveals labels of observations and the other columns are the Multivariate Time Series (MTS).
+The 3W dataset consists of 1,984 CSV files structured as follows. Due to the limitation of GitHub, this dataset is kept in 7z files splited automatically and saved in the `data` directory. Before using 3W dataset, they must be decompressed. After that, the subdirectory names are the instances' labels. Each file represents one instance. The filename reveals its source. All files are standardized as follow. There are one observation per line and one series per column. Columns are separated by commas and decimals are separated by periods. The first column contains timestamps, the last one reveals the observations' labels, and the other columns are the Multivariate Time Series (MTS) (i.e. the instance itself).
 
-# Demonstrations
+# 3W Dataset's Overview
 
-This repository also contains the following demonstrations about 3W dataset in the folder `demos`:
-
-- [Demonstration 1](demos/demo_1_general_presentation.ipynb): general presentation with some quantities and statistics;
-- [Demonstration 2](demos/demo_2_importance_of_simulated_and_drawn_instances.ipynb): importance of simulated and drawn instances;
-- [Demonstration 3](demos/demo_3_example_of_anomaly_detection_implementation.ipynb): example of anomaly detection implementation;
-- [Demonstration 4](demos/demo_4_example_of_early_classification_implementation.ipynb): example of early classification implementation.
+A 3W Dataset's general presentation with some quantities and statistics is available [here](overview.ipynb).
