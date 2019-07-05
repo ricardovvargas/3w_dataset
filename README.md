@@ -1,10 +1,8 @@
 # 3W Dataset
 
-**Disclaimer: this repository is a WIP (work in progress).**
-
 To the best of its authors' knowledge, this is the first realistic and public dataset with rare undesirable real events in oil wells that can be readily used as a benchmark dataset for development of machine learning techniques related to inherent difficulties of actual data.
 
-For more information about the theory behind this dataset, refer to the paper **A Realistic and Public Dataset with Rare Undesirable Real Events in Oil Wells** published in the **Journal of Petroleum Science and Engineering**. Specific challenges (benchmarks) that practitioners and researchers can use together with the 3W dataset are defined and proposed in this paper.
+For more information about the theory behind this dataset, refer to the paper **A realistic and public dataset with rare undesirable real events in oil wells** published in the **Journal of Petroleum Science and Engineering** (link [here](https://doi.org/10.1016/j.petrol.2019.106223)). Specific challenges (benchmarks) that practitioners and researchers can use together with the 3W dataset are defined and proposed in this paper.
 
 # Preamble
 
@@ -12,17 +10,17 @@ This is the supporting repository for the paper mentioned above.
 
 Authors: Ricardo Emanuel Vaz Vargas, Celso José Munaro, Patrick Marques Ciarelli, André Gonçalves Medeiros, Bruno Guberfain do Amaral, Daniel Centurion Barrionuevo, Jean Carlos Dias de Araújo, Jorge Lins Ribeiro, Lucas Pierezan Magalhães.
 
-When using the 3W dataset, please cite:
+When using the 3W dataset, please cite (some information is still pending!):
 ```
 @article{article,
 author = {Vargas, Ricardo E. V. and Munaro, Celso J. and Ciarelli, Patrick M. and Medeiros, André G. and Amaral, Bruno G. and Barrionuevo, Daniel C. and Araújo, Jean C. D. and Ribeiro, Jorge L. and Magalhães, Lucas P.},
 year = {2019},
-month = {?},
-pages = {?},
-title = {A Realistic and Public Dataset with Rare Undesirable Real Events in Oil Wells},
-volume = {?},
+month = {??},
+pages = {????-????},
+title = {A realistic and public dataset with rare undesirable real events in oil wells},
+volume = {??},
 journal = {Journal of Petroleum Science and Engineering},
-doi = {?}
+doi = {10.1016/j.petrol.2019.106223}
 }
 ```
 
