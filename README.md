@@ -35,3 +35,10 @@ The 3W dataset consists of 1,984 CSV files structured as follows. Due to the lim
 # 3W Dataset's Overview
 
 A 3W Dataset's general presentation with some quantities and statistics is available [here](overview.ipynb).
+
+# Experiments for Proposed Benchmarks
+
+The results of the following experiments can be used as baselines. 
+
+- Bechmark 1: Impact of Using Simulated and Hand-Drawn Instances (code and results [here](demo_2_benchmark_anomaly_detection.ipynb)).
+- Bechmark 2: Anomaly Detection (code and results pending).
