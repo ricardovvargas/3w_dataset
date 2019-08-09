@@ -40,5 +40,5 @@ A 3W Dataset's general presentation with some quantities and statistics is avail
 
 The results of the following experiments can be used as baselines. 
 
-- Bechmark 1: Impact of Using Simulated and Hand-Drawn Instances (code and results [here](demo_2_benchmark_anomaly_detection.ipynb)).
-- Bechmark 2: Anomaly Detection (code and results pending).
+- Bechmark 1: Impact of Using Simulated and Hand-Drawn Instances (code and results [here](demo_1_benchmark_impact_of_using_simulated_and_hand-drawn_instances.ipynb)).
+- Bechmark 2: Anomaly Detection (code and results [here](demo_2_benchmark_anomaly_detection.ipynb)).
