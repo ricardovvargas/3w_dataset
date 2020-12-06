@@ -45,7 +45,7 @@ The results of the following experiments can be used as baselines.
 
 # Citations
 
-If you know of any other work that cites the 3W dataset, I will be grateful if you let me know by email (ricardovvargas at gmail dot com).
+If you know any other work that cites the 3W dataset, I will be grateful if you let me know by email (ricardovvargas at gmail dot com).
 
 1) R.E.V. Vargas, C. Munaro, P. Ciarelli. A methodology for generating datasets for development of anomaly detectors in oil wells based on Artificial Intelligence techniques. I Congresso Brasileiro em Engenharia de Sistemas em Processos. 2019. https://www.ufrgs.br/psebr/wp-content/uploads/2019/04/Abstract_A019_Vargas.pdf
 
