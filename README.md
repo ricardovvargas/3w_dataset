@@ -42,3 +42,22 @@ The results of the following experiments can be used as baselines.
 
 - Bechmark 1: Impact of Using Simulated and Hand-Drawn Instances (code and results [here](demo_1_benchmark_impact_of_using_simulated_and_hand-drawn_instances.ipynb)).
 - Bechmark 2: Anomaly Detection (code and results [here](demo_2_benchmark_anomaly_detection.ipynb)).
+
+# Citations
+
+If you know of any other work that cites the 3W dataset, I will be grateful if you let me know by email (ricardovvargas at gmail dot com).
+
+1) R.E.V. Vargas, C. Munaro, P. Ciarelli. A methodology for generating datasets for development of anomaly detectors in oil wells based on Artificial Intelligence techniques. I Congresso Brasileiro em Engenharia de Sistemas em Processos. 2019. https://www.ufrgs.br/psebr/wp-content/uploads/2019/04/Abstract_A019_Vargas.pdf
+
+2) Yan Li, Tingjian Ge, Cindy Chen. Data Stream Event Prediction Based on Timing Knowledge and State Transitions. PVLDB, 13(10): 1779-1792. 2020. http://www.vldb.org/pvldb/vol13/p1779-li.pdf
+
+3) Tao Lu, Wen Xia, Xiangyu Zou, Qianbin Xia. Adaptively Compressing IoT Data on the Resource-constrained Edge. 3rd {USENIX} Workshop on Hot Topics in Edge Computing (HotEdge 20). 2020. https://www.usenix.org/system/files/hotedge20_paper_lu.pdf
+
+4) Matheus A. Marins, Bettina D. Barros, Ismael H. Santos, Daniel C. Barrionuevo, Ricardo E.V. Vargas, Thiago de M. Prego, Amaro A. de Lima, Marcello L.R. de Campos, Eduardo A.B. da Silva, Sergio L. Netto. Fault detection and classification in oil wells and production/service lines using random forest. Journal of Petroleum Science and Engineering. 2020. https://doi.org/10.1016/j.petrol.2020.107879.
+
+5) W. Fernandes Junior, R.E.V. Vargas, K.S. Komati, K.A. de Souza Gazolli. Detecção de anomalias em poços produtores de petróleo usando aprendizado de máquina. XXIII Congresso Brasileiro de Automática. 2020. 
+
+6) R. Scoralick, B. Barbosa, R.E.V. Vargas, I. Humberto. Detecção de falhas com Stacked Autoencoders e técnicas de reconhecimento de padrões em poços de petróleo operados por gas lift. XXIII Congresso Brasileiro de Automática. 2020. 
+
+7) Jiangguo Liu, Jianli Gu, Huishu Li, Kenneth H. Carlson. Machine learning and transport simulations for groundwater anomaly detection,
+Journal of Computational and Applied Mathematics. 2020. https://doi.org/10.1016/j.cam.2020.112982.
