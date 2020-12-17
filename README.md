@@ -61,3 +61,5 @@ If you know any other work that cites the 3W dataset, I will be grateful if you 
 
 7) Jiangguo Liu, Jianli Gu, Huishu Li, Kenneth H. Carlson. Machine learning and transport simulations for groundwater anomaly detection,
 Journal of Computational and Applied Mathematics. 2020. https://doi.org/10.1016/j.cam.2020.112982.
+
+8) Eduardo S.P. Sobrinho, Felipe L. Oliveira, Jorel L.R. Anjos, Clemente Gonçalves, Marcus V.D. Ferreira, Lucas G.O. Lopes, William W.M. Lira, João P.N. Araújo, Thiago B. Silva, Lucas P. Gouveia. Uma ferramenta para detectar anomalias de produção utilizando aprendizagem profunda e árvore de decisão. Rio Oil & Gas Expo and Conference 2020. 2020. https://icongresso.ibp.itarget.com.br/arquivos/trabalhos_completos/ibp/3/final.IBP0938_20_27112020_085551.pdf.
