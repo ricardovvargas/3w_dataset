@@ -78,3 +78,11 @@ Journal of Computational and Applied Mathematics. 2020. https://doi.org/10.1016/
 14) Aurea Soriano-Vargas, Rafael Werneck, Renato Moura, Pedro Mendes Júnior, Raphael Prates, Manuel Castro, Maiara Gonçalves, Manzur Hossain, Marcelo Zampieri, Alexandre Ferreira, Alessandra Davólio, Bernd Hamann, Denis José Schiozer, Anderson Rocha. A visual analytics approach to anomaly detection in hydrocarbon reservoir time series data. Journal of Petroleum Science and Engineering. 2021. https://doi.org/10.1016/j.petrol.2021.108988.
 
 15) Yan Li, Tingjian Ge. Imminence Monitoring of Critical Events: A Representation Learning Approach. International Conference on Management of Data. 2021. https://doi.org/10.1145/3448016.3452804.
+
+16) R. Scoralick. Detecção de anomalias em poços de produção de petróleo offshore com a utilização de autoencoders e técnicas de reconhecimento de padrões. Universidade Federal de Lavras. Master's degree dissertation. 2021.
+
+17) B.G. Carvalho, R.E.V. Vargas, R.M. Salgado, C. Munaro, F.M. Varejão. Flow Instability Detection in Offshore Oil Wells with Multivariate Time Series Machine Learning Classifiers. 30th International Symposium on Industrial Electronics. 2021.
+
+18) E. M. Turan, J. Jäschke. Classification of undesirable events in oil well operation. 23rd International Conference on Process Control (PC). 2021. https://doi.org/10.1109/PC52310.2021.9447527.
+
+19) R. Scoralick, B. Barbosa, R.E.V. Vargas, I. Humberto. Detecção de anomalias em poços de petróleo surgentes com Stacked Autoencoders. Simpósio Brasileiro de Automação Inteligente. 2021. 
