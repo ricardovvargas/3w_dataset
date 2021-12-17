@@ -71,20 +71,22 @@ Journal of Computational and Applied Mathematics. 2020. https://doi.org/10.1016/
 
 11) Luiz Müller, Marcelo Ramos Martins. Proposition of Reliability-based Methodology for Well Integrity Management During Operational Phase. 30th European Safety and Reliability Conference and 15th Probabilistic Safety Assessment and Management Conference. 2020. https://doi.org/10.3850%2F978-981-14-8593-0_3682-cd.
 
-12) R.S.F. Nascimento. Detecção de anomalias em poços de produção de petróleo offshore com a utilização de autoencoders e técnicas de reconhecimento de padrões. Universidade Federal de Lavras. Master's degree dissertation. 2021.
+12) Taimur Hafeez, Lina Xu, Gavin Mcardle. Edge Intelligence for Data Handling and Predictive Maintenance in IIOT. IEEE Access. 2021. https://ieeexplore.ieee.org/document/9387301.
 
-13) Taimur Hafeez, Lina Xu, Gavin Mcardle. Edge Intelligence for Data Handling and Predictive Maintenance in IIOT. IEEE Access. 2021. https://ieeexplore.ieee.org/document/9387301.
+13) Aurea Soriano-Vargas, Rafael Werneck, Renato Moura, Pedro Mendes Júnior, Raphael Prates, Manuel Castro, Maiara Gonçalves, Manzur Hossain, Marcelo Zampieri, Alexandre Ferreira, Alessandra Davólio, Bernd Hamann, Denis José Schiozer, Anderson Rocha. A visual analytics approach to anomaly detection in hydrocarbon reservoir time series data. Journal of Petroleum Science and Engineering. 2021. https://doi.org/10.1016/j.petrol.2021.108988.
 
-14) Aurea Soriano-Vargas, Rafael Werneck, Renato Moura, Pedro Mendes Júnior, Raphael Prates, Manuel Castro, Maiara Gonçalves, Manzur Hossain, Marcelo Zampieri, Alexandre Ferreira, Alessandra Davólio, Bernd Hamann, Denis José Schiozer, Anderson Rocha. A visual analytics approach to anomaly detection in hydrocarbon reservoir time series data. Journal of Petroleum Science and Engineering. 2021. https://doi.org/10.1016/j.petrol.2021.108988.
+14) Yan Li, Tingjian Ge. Imminence Monitoring of Critical Events: A Representation Learning Approach. International Conference on Management of Data. 2021. https://doi.org/10.1145/3448016.3452804.
 
-15) Yan Li, Tingjian Ge. Imminence Monitoring of Critical Events: A Representation Learning Approach. International Conference on Management of Data. 2021. https://doi.org/10.1145/3448016.3452804.
+15) R. Scoralick. Detecção de anomalias em poços de produção de petróleo offshore com a utilização de autoencoders e técnicas de reconhecimento de padrões. Universidade Federal de Lavras. Master's degree dissertation. 2021.
 
-16) R. Scoralick. Detecção de anomalias em poços de produção de petróleo offshore com a utilização de autoencoders e técnicas de reconhecimento de padrões. Universidade Federal de Lavras. Master's degree dissertation. 2021.
+16) B.G. Carvalho, R.E.V. Vargas, R.M. Salgado, C.J. Munaro, F.M. Varejão. Flow Instability Detection in Offshore Oil Wells with Multivariate Time Series Machine Learning Classifiers. 30th International Symposium on Industrial Electronics. 2021.
 
-17) B.G. Carvalho, R.E.V. Vargas, R.M. Salgado, C. Munaro, F.M. Varejão. Flow Instability Detection in Offshore Oil Wells with Multivariate Time Series Machine Learning Classifiers. 30th International Symposium on Industrial Electronics. 2021.
+17) B.G. Carvalho, R.E.V. Vargas, R.M. Salgado, C.J. Munaro, F.M. Varejão. Hyperparameter Tuning and Feature Selection for Improving Flow Instability Detection in Offshore Oil Wells. IEEE 19th International Conference on Industrial Informatics (INDIN). 2021. https://doi.org/10.1109/INDIN45523.2021.9557415.
 
 18) E. M. Turan, J. Jäschke. Classification of undesirable events in oil well operation. 23rd International Conference on Process Control (PC). 2021. https://doi.org/10.1109/PC52310.2021.9447527.
 
 19) R. Scoralick, B. Barbosa, R.E.V. Vargas, I. Humberto. Detecção de anomalias em poços de petróleo surgentes com Stacked Autoencoders. Simpósio Brasileiro de Automação Inteligente. 2021. 
 
 20) I.S. Figueirêdo, T.F. Carvalho, W.J.D Silva, L.L.N. Guarieiro, E.G.S. Nascimento. Detecting Interesting and Anomalous Patterns In Multivariate Time-Series Data in an Offshore Platform Using Unsupervised Learning. OTC Offshore Technology Conference. 2021. https://doi.org/10.4043/31297-MS.
+
+21) R. Karl, J. Takeshita, T. Jung. Cryptonite: A Framework for Flexible Time-Series Secure Aggregation with Non-interactive Fault Recovery. Lecture Notes of the Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering, LNICST. 2021.
