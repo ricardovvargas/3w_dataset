@@ -67,7 +67,7 @@ Journal of Computational and Applied Mathematics. 2020. https://doi.org/10.1016/
 
 9) Eduardo S.P. Sobrinho, Felipe L. Oliveira, Jorel L.R. Anjos, Clemente Gonçalves, Marcus V.D. Ferreira, Lucas G.O. Lopes, William W.M. Lira, João P.N. Araújo, Thiago B. Silva, Lucas P. Gouveia. Uma ferramenta para detectar anomalias de produção utilizando aprendizagem profunda e árvore de decisão. Rio Oil & Gas Expo and Conference 2020. 2020. https://icongresso.ibp.itarget.com.br/arquivos/trabalhos_completos/ibp/3/final.IBP0938_20_27112020_085551.pdf.
 
-10) I.M.N. Oliveira. Técnicas de inferência e previsão de dados como suporte à análise de integridade de revestimentos. Universidade Federal de Alagoas. Master's degree dissertation. 2020. https://github.com/ricardovvargas/3w_dataset/raw/master/docs/masters_degree_dissertation_igor_oliveira.pdf.
+10) I.M.N. Oliveira. Técnicas de inferência e previsão de dados como suporte à análise de integridade de revestimentos. Universidade Federal de Alagoas. Master's degree dissertation. 2020. https://github.com/ricardovvargas/3w_dataset/raw/master/docs/master_degree_dissertation_igor_oliveira.pdf.
 
 11) Luiz Müller, Marcelo Ramos Martins. Proposition of Reliability-based Methodology for Well Integrity Management During Operational Phase. 30th European Safety and Reliability Conference and 15th Probabilistic Safety Assessment and Management Conference. 2020. https://doi.org/10.3850%2F978-981-14-8593-0_3682-cd.
 
