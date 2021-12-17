@@ -47,27 +47,27 @@ The results of the following experiments can be used as baselines.
 
 If you know any other work that cites the 3W dataset, I will be grateful if you let me know by email (ricardovvargas at gmail dot com).
 
-1) R.E.V. Vargas, C. Munaro, P. Ciarelli. A methodology for generating datasets for development of anomaly detectors in oil wells based on Artificial Intelligence techniques. I Congresso Brasileiro em Engenharia de Sistemas em Processos. 2019. https://www.ufrgs.br/psebr/wp-content/uploads/2019/04/Abstract_A019_Vargas.pdf
+1) R.E.V. Vargas, C. Munaro, P. Ciarelli. A methodology for generating datasets for development of anomaly detectors in oil wells based on Artificial Intelligence techniques. I Congresso Brasileiro em Engenharia de Sistemas em Processos. 2019. https://www.ufrgs.br/psebr/wp-content/uploads/2019/04/Abstract_A019_Vargas.pdf.
 
 2) R.E.V. Vargas. Base de dados e benchmarks para prognóstico de anomalias em sistemas de elevação de petróleo. Universidade
-Federal do Espírito Santo. Doctoral thesis. 2019. File [here](docs/doctoral_thesis_ricardo_vargas.pdf).
+Federal do Espírito Santo. Doctoral thesis. 2019. https://github.com/ricardovvargas/3w_dataset/raw/master/docs/doctoral_thesis_ricardo_vargas.pdf.
 
-3) Yan Li, Tingjian Ge, Cindy Chen. Data Stream Event Prediction Based on Timing Knowledge and State Transitions. PVLDB, 13(10): 1779-1792. 2020. http://www.vldb.org/pvldb/vol13/p1779-li.pdf
+3) Yan Li, Tingjian Ge, Cindy Chen. Data Stream Event Prediction Based on Timing Knowledge and State Transitions. PVLDB, 13(10): 1779-1792. 2020. http://www.vldb.org/pvldb/vol13/p1779-li.pdf.
 
-4) Tao Lu, Wen Xia, Xiangyu Zou, Qianbin Xia. Adaptively Compressing IoT Data on the Resource-constrained Edge. 3rd {USENIX} Workshop on Hot Topics in Edge Computing (HotEdge 20). 2020. https://www.usenix.org/system/files/hotedge20_paper_lu.pdf
+4) Tao Lu, Wen Xia, Xiangyu Zou, Qianbin Xia. Adaptively Compressing IoT Data on the Resource-constrained Edge. 3rd {USENIX} Workshop on Hot Topics in Edge Computing (HotEdge 20). 2020. https://www.usenix.org/system/files/hotedge20_paper_lu.pdf.
 
 5) Matheus A. Marins, Bettina D. Barros, Ismael H. Santos, Daniel C. Barrionuevo, Ricardo E.V. Vargas, Thiago de M. Prego, Amaro A. de Lima, Marcello L.R. de Campos, Eduardo A.B. da Silva, Sergio L. Netto. Fault detection and classification in oil wells and production/service lines using random forest. Journal of Petroleum Science and Engineering. 2020. https://doi.org/10.1016/j.petrol.2020.107879.
 
 6) W. Fernandes Junior, R.E.V. Vargas, K.S. Komati, K.A. de Souza Gazolli. Detecção de anomalias em poços produtores de petróleo usando aprendizado de máquina. XXIII Congresso Brasileiro de Automática. 2020. https://www.sba.org.br/open_journal_systems/index.php/cba/article/download/1405/1005.
 
-7) R. Scoralick, B. Barbosa, R.E.V. Vargas, I. Humberto. Detecção de falhas com Stacked Autoencoders e técnicas de reconhecimento de padrões em poços de petróleo operados por gas lift. XXIII Congresso Brasileiro de Automática. 2020. https://www.sba.org.br/open_journal_systems/index.php/cba/article/view/1462/1300. File [here](docs/masters_degree_dissertation_Igor_Oliveira.pdf).
+7) R. Scoralick, B. Barbosa, R.E.V. Vargas, I. Humberto. Detecção de falhas com Stacked Autoencoders e técnicas de reconhecimento de padrões em poços de petróleo operados por gas lift. XXIII Congresso Brasileiro de Automática. 2020. https://www.sba.org.br/open_journal_systems/index.php/cba/article/view/1462/1300.
 
 8) Jiangguo Liu, Jianli Gu, Huishu Li, Kenneth H. Carlson. Machine learning and transport simulations for groundwater anomaly detection,
 Journal of Computational and Applied Mathematics. 2020. https://doi.org/10.1016/j.cam.2020.112982.
 
 9) Eduardo S.P. Sobrinho, Felipe L. Oliveira, Jorel L.R. Anjos, Clemente Gonçalves, Marcus V.D. Ferreira, Lucas G.O. Lopes, William W.M. Lira, João P.N. Araújo, Thiago B. Silva, Lucas P. Gouveia. Uma ferramenta para detectar anomalias de produção utilizando aprendizagem profunda e árvore de decisão. Rio Oil & Gas Expo and Conference 2020. 2020. https://icongresso.ibp.itarget.com.br/arquivos/trabalhos_completos/ibp/3/final.IBP0938_20_27112020_085551.pdf.
 
-10) I.M.N. Oliveira. Técnicas de inferência e previsão de dados como suporte à análise de integridade de revestimentos. Universidade Federal de Alagoas. Master's degree dissertation. 2020.
+10) I.M.N. Oliveira. Técnicas de inferência e previsão de dados como suporte à análise de integridade de revestimentos. Universidade Federal de Alagoas. Master's degree dissertation. 2020. https://github.com/ricardovvargas/3w_dataset/raw/master/docs/masters_degree_dissertation_igor_oliveira.pdf.
 
 11) Luiz Müller, Marcelo Ramos Martins. Proposition of Reliability-based Methodology for Well Integrity Management During Operational Phase. 30th European Safety and Reliability Conference and 15th Probabilistic Safety Assessment and Management Conference. 2020. https://doi.org/10.3850%2F978-981-14-8593-0_3682-cd.
 
@@ -85,7 +85,7 @@ Journal of Computational and Applied Mathematics. 2020. https://doi.org/10.1016/
 
 18) E. M. Turan, J. Jäschke. Classification of undesirable events in oil well operation. 23rd International Conference on Process Control (PC). 2021. https://doi.org/10.1109/PC52310.2021.9447527.
 
-19) R. Scoralick, B. Barbosa, R.E.V. Vargas, I. Humberto. Detecção de anomalias em poços de petróleo surgentes com Stacked Autoencoders. Simpósio Brasileiro de Automação Inteligente. 2021. 
+19) R. Scoralick, B. Barbosa, R.E.V. Vargas, I. Humberto. Detecção de anomalias em poços de petróleo surgentes com Stacked Autoencoders. Simpósio Brasileiro de Automação Inteligente. 2021. https://www.sba.org.br/open_journal_systems/index.php/cba/article/download/1462/1300.
 
 20) I.S. Figueirêdo, T.F. Carvalho, W.J.D Silva, L.L.N. Guarieiro, E.G.S. Nascimento. Detecting Interesting and Anomalous Patterns In Multivariate Time-Series Data in an Offshore Platform Using Unsupervised Learning. OTC Offshore Technology Conference. 2021. https://doi.org/10.4043/31297-MS.
 
