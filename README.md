@@ -90,3 +90,5 @@ Journal of Computational and Applied Mathematics. 2020. https://doi.org/10.1016/
 20) I.S. Figueirêdo, T.F. Carvalho, W.J.D Silva, L.L.N. Guarieiro, E.G.S. Nascimento. Detecting Interesting and Anomalous Patterns In Multivariate Time-Series Data in an Offshore Platform Using Unsupervised Learning. OTC Offshore Technology Conference. 2021. https://doi.org/10.4043/31297-MS.
 
 21) R. Karl, J. Takeshita, T. Jung. Cryptonite: A Framework for Flexible Time-Series Secure Aggregation with Non-interactive Fault Recovery. Lecture Notes of the Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering, LNICST. 2021. https://eprint.iacr.org/2020/1561.pdf.
+
+22) B.G. Carvalho. Evaluating machine learning techniques for detection of flow instability events in offshore oil wells. Universidade Federal do Espírito Santo. Master's degree dissertation. 2021. https://github.com/ricardovvargas/3w_dataset/raw/master/docs/master_degree_dissertation_bruno_carvalho.pdf.
