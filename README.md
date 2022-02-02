@@ -94,3 +94,5 @@ Journal of Computational and Applied Mathematics. 2020. https://doi.org/10.1016/
 22) I.S. Figueirêdo, T.F. Carvalho, W.J.D Silva, L.L.N. Guarieiro, E.G.S. Nascimento. Detecting Interesting and Anomalous Patterns In Multivariate Time-Series Data in an Offshore Platform Using Unsupervised Learning. OTC Offshore Technology Conference. 2021. https://doi.org/10.4043/31297-MS.
 
 23) R. Karl, J. Takeshita, T. Jung. Cryptonite: A Framework for Flexible Time-Series Secure Aggregation with Non-interactive Fault Recovery. Lecture Notes of the Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering, LNICST. 2021. https://eprint.iacr.org/2020/1561.pdf.
+
+24) W. Fernandes Junior. Comparação de classificadores para detecção de anomalias em poços produtores de petróleo. Instituto Federal do Espírito Santo. Master's degree dissertation. 2022. https://github.com/ricardovvargas/3w_dataset/raw/master/docs/master_degree_dissertation_wander_junior.pdf.
