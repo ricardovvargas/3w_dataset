@@ -95,4 +95,6 @@ Journal of Computational and Applied Mathematics. 2020. https://doi.org/10.1016/
 
 23) R. Karl, J. Takeshita, T. Jung. Cryptonite: A Framework for Flexible Time-Series Secure Aggregation with Non-interactive Fault Recovery. Lecture Notes of the Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering, LNICST. 2021. https://eprint.iacr.org/2020/1561.pdf.
 
-24) W. Fernandes Junior. Comparação de classificadores para detecção de anomalias em poços produtores de petróleo. Instituto Federal do Espírito Santo. Master's degree dissertation. 2022. https://github.com/ricardovvargas/3w_dataset/raw/master/docs/master_degree_dissertation_wander_junior.pdf.
+24) A.O. de Salvo Castro, M. de Jesus Rocha Santos, F.R. Leta, C.B.C. Lima, G.B.A. Lima. Unsupervised Methods to Classify Real Data from Offshore Wells. American Journal of  Operations Research. 2021. https://doi.org/10.4236/ajor.2021.115014.
+
+25) W. Fernandes Junior. Comparação de classificadores para detecção de anomalias em poços produtores de petróleo. Instituto Federal do Espírito Santo. Master's degree dissertation. 2022. https://github.com/ricardovvargas/3w_dataset/raw/master/docs/master_degree_dissertation_wander_junior.pdf.
