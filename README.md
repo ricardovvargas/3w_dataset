@@ -98,3 +98,7 @@ Journal of Computational and Applied Mathematics. 2020. https://doi.org/10.1016/
 24) A.O. de Salvo Castro, M. de Jesus Rocha Santos, F.R. Leta, C.B.C. Lima, G.B.A. Lima. Unsupervised Methods to Classify Real Data from Offshore Wells. American Journal of  Operations Research. 2021. https://doi.org/10.4236/ajor.2021.115014.
 
 25) W. Fernandes Junior. Comparação de classificadores para detecção de anomalias em poços produtores de petróleo. Instituto Federal do Espírito Santo. Master's degree dissertation. 2022. https://github.com/ricardovvargas/3w_dataset/raw/master/docs/master_degree_dissertation_wander_junior.pdf.
+
+26) E.G.S. Nascimento, I.S. Figueirêdo, L.L.N. Guarieiro. A Novel Self Deep Learning Semi-Supervised Approach to Classify Unlabeled Multivariate Time Series Data. GPU Technology Conference Digital Spring. 2022. https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s41405.
+
+27) A.L. D’Almeida, N.C.R. Bergiante, G.S. Ferreira, F.R. Leta, C.B.C. Lima, G.B.A. Lima. Digital transformation: a review on artificial intelligence techniques in drilling and production applications. The International Journal of Advanced Manufacturing Technology. 2022. https://doi.org/10.1007/s00170-021-08631-w.
