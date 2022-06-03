@@ -1,3 +1,6 @@
+| :exclamation: ***IMPORTANT!*** This repository will remain available online, but without updates from May 31, 2022 onwards. All news about the 3W dataset will be published on https://github.com/petrobras/3W, the first Petrobras' repository on GitHub that supports the 3W project. |
+|-----------------------------------------|
+
 # 3W Dataset
 
 To the best of its authors' knowledge, this is the first realistic and public dataset with rare undesirable real events in oil wells that can be readily used as a benchmark dataset for development of machine learning techniques related to inherent difficulties of actual data.
